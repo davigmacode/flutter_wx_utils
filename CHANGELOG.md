@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Removed pub ignore
+
 ## 0.0.2
 
 * Added example
