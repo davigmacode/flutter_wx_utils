@@ -1,7 +1,4 @@
 library wx_utils;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/main.dart';
+export 'package:lerp/lerp.dart';

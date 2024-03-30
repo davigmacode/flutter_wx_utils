@@ -1,3 +1,5 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Added color helper.
+* Added null widget.
+* Added lerp.
