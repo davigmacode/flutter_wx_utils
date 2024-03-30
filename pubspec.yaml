@@ -1,6 +1,6 @@
 name: wx_utils
 description: Provide common functionalities that can be reused across different parts of the Widgetarian codebase.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/davigmacode/flutter_wx_utils
 
 topics:
