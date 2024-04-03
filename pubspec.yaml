@@ -1,6 +1,6 @@
 name: wx_utils
 description: Provide common functionalities that can be reused across different parts of the Widgetarian codebase.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/davigmacode/flutter_wx_utils
 
 topics:
@@ -13,13 +13,13 @@ funding:
  - https://ko-fi.com/davigmacode
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=2.12.0 <4.0.0'
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  lerp: ^0.0.1
+  lerp: ^0.0.2
 
 dev_dependencies:
   flutter_test:
